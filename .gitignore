@@ -1,3 +1,4 @@
 *.db
 .idea
 .coverage
+.pytest_cache
